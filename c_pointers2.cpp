@@ -3,12 +3,12 @@
 
 int main()
 {
-	//referencing and dereferencing ın pointers
+	//referencing and dereferencing Ã½n pointers
 	
 	int age = 30;
 	int *pAge = &age;
 	
-	printf("\n %d is being stored in %p adress",*pAge,pAge);//First variable is deferencing smaple the second one is referencing
+	printf("\n %d is being stored in %p adress",*pAge,pAge);//First variable is deferencing sample the second one is redeferencing
 	
 	return 0;
 }
